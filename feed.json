@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Seasons Inspections",
+    "description": "",
+    "home_page_url": "https://seasonsinspections.com",
+    "feed_url": "https://seasonsinspections.com/feed.json",
+    "user_comment": "",
+    "icon": "https://seasonsinspections.com/media/website/logo-2.png",
+    "author": {
+        "name": "Jeffery Tharp"
+    },
+    "items": [
+    ]
+}
